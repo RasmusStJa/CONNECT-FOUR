@@ -1,0 +1,3 @@
+C:/Users/rasmu/CLionProjects/CONNECT-FOUR/cmake-build-debug/CMakeFiles/CONNECT_FOUR.dir
+C:/Users/rasmu/CLionProjects/CONNECT-FOUR/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/rasmu/CLionProjects/CONNECT-FOUR/cmake-build-debug/CMakeFiles/rebuild_cache.dir
